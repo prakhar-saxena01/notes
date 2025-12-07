@@ -18,7 +18,7 @@
   "pageTemplate": "---\ntitle: \"{{title}}\"\ndescription: \"\"\nnoIndex: false\nhideTOC: false\ndraft: true\n---\n",
   "onlyAutomateInPagesFolder": false,
   "enableCopyHeadingLink": true,
-  "copyHeadingLinkFormat": "obsidian",
+  "copyHeadingLinkFormat": "astro",
   "addTrailingSlashToLinks": true,
   "enableOpenTerminalCommand": true,
   "terminalProjectRootPath": "../..",
