@@ -1,7 +1,7 @@
 ---
-title: index
+title: Economy
 description: ""
-category: Prelims Economy
+category: Prelims
 order: 0
 lastModified: 2025-12-07
 version: ""
