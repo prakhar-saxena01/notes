@@ -1,6 +1,6 @@
 ---
-title: Documentation
-description: Comprehensive guides, tutorials, and reference materials to help you get the most out of this project.
+title: Notes
+description: all notes here
 hideTOC: false
 ---
-Find everything you need to understand, use, and contribute to this project. 
+Find everything you need here.

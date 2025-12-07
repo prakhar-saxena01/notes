@@ -1,21 +1,49 @@
 {
-  "runWizardOnStartup": true,
-  "currentTemplate": "standard",
+  "runWizardOnStartup": false,
+  "currentTemplate": "compact",
   "currentTheme": "oxygen",
   "customThemeFile": "custom",
   "contentOrganization": "file-based",
   "themeColors": {
     "mode": "simple",
     "simpleColors": {
-      "accent": "#5865f2",
-      "background": "#1e1e1e"
-    }
+      "accent": "#28729a",
+      "background": "#ffffff"
+    },
+    "extractedColors": {
+      "primary": {
+        "50": "#0d0d0d",
+        "100": "#191919",
+        "200": "#333333",
+        "300": "#4d4d4d",
+        "400": "#737373",
+        "500": "#999999",
+        "600": "#bfbfbf",
+        "700": "#ffffff",
+        "800": "#ffffff",
+        "900": "#ffffff",
+        "950": "#ffffff"
+      },
+      "highlight": {
+        "50": "#1f5a7a",
+        "100": "#1f5a7a",
+        "200": "#1f5a7a",
+        "300": "#28729a",
+        "400": "#28729a",
+        "500": "#28729a",
+        "600": "#28729a",
+        "700": "#28729a",
+        "800": "#28729a",
+        "900": "#28729a"
+      }
+    },
+    "lastExtracted": "2025-12-05T17:57:49.651Z"
   },
   "siteInfo": {
-    "site": "https://astro-modular.netlify.app",
-    "title": "Astro Modular",
-    "description": "A flexible blog theme designed for Obsidian users.",
-    "author": "David V. Kimball",
+    "site": "https://prakhar.sbs",
+    "title": "Notes",
+    "description": "my upsc notes",
+    "author": "Prakhar Saxena",
     "language": "en",
     "faviconThemeAdaptive": true,
     "defaultOgImageAlt": "Astro Modular logo."
@@ -28,26 +56,18 @@
     "depth": 4
   },
   "footer": {
-    "enabled": true,
-    "content": "© 2025 {author}. Built with the <a href=\"https://github.com/davidvkimball/astro-modular\" target=\"_blank\">Astro Modular</a> theme.",
-    "showSocialIconsInFooter": true
+    "enabled": false,
+    "content": "© 2025 {author}",
+    "showSocialIconsInFooter": false
   },
   "seo": {
     "defaultOgImageAlt": "Astro Modular logo."
   },
   "navigation": {
     "showNavigation": true,
-    "style": "traditional",
+    "style": "minimal",
     "showMobileMenu": true,
     "pages": [
-      {
-        "title": "Posts",
-        "url": "/posts/"
-      },
-      {
-        "title": "Projects",
-        "url": "/projects/"
-      },
       {
         "title": "Docs",
         "url": "/docs/"
@@ -55,39 +75,24 @@
       {
         "title": "About",
         "url": "/about/"
-      },
-      {
-        "title": "GitHub",
-        "url": "https://github.com/davidvkimball/astro-modular"
       }
     ],
-    "social": [
-      {
-        "title": "X",
-        "url": "https://x.com/davidvkimball",
-        "icon": "x-twitter"
-      },
-      {
-        "title": "GitHub",
-        "url": "https://github.com/davidvkimball",
-        "icon": "github"
-      }
-    ]
+    "social": []
   },
   "commandPalette": {
     "enabled": true,
     "shortcut": "ctrl+K",
-    "placeholder": "Search posts",
+    "placeholder": "Search",
     "search": {
-      "posts": true,
+      "posts": false,
       "pages": false,
       "projects": false,
-      "docs": false
+      "docs": true
     },
     "sections": {
       "quickActions": true,
-      "pages": true,
-      "social": true
+      "pages": false,
+      "social": false
     },
     "quickActions": {
       "enabled": true,
@@ -98,24 +103,24 @@
   },
   "homeOptions": {
     "featuredPost": {
-      "enabled": true,
+      "enabled": false,
       "type": "latest",
       "slug": "getting-started"
     },
     "recentPosts": {
-      "enabled": true,
+      "enabled": false,
       "count": 7
     },
     "projects": {
-      "enabled": true,
+      "enabled": false,
       "count": 2
     },
     "docs": {
       "enabled": true,
-      "count": 3
+      "count": 9
     },
     "blurb": {
-      "placement": "below"
+      "placement": "above"
     }
   },
   "postOptions": {
@@ -125,10 +130,10 @@
     "tags": true,
     "linkedMentions": {
       "enabled": true,
-      "linkedMentionsCompact": false
+      "linkedMentionsCompact": true
     },
     "graphView": {
-      "enabled": true,
+      "enabled": false,
       "showInSidebar": true,
       "maxNodes": 100,
       "showOrphanedPosts": true
@@ -157,21 +162,17 @@
   },
   "features": {
     "commandPalette": true,
-    "tableOfContents": true,
     "readingTime": true,
     "linkedMentions": true,
-    "linkedMentionsCompact": false,
-    "graphView": true,
+    "linkedMentionsCompact": true,
+    "graphView": false,
     "postNavigation": true,
-    "hideScrollBar": false,
+    "hideScrollBar": true,
     "scrollToTop": true,
-    "showSocialIconsInFooter": true,
+    "showSocialIconsInFooter": false,
     "profilePicture": false,
     "comments": false,
-    "featureButton": "mode",
-    "showPostCardCoverImages": "featured-and-posts",
-    "postCardAspectRatio": "og",
-    "customPostCardAspectRatio": "2.5/1",
+    "featureButton": "graph",
     "quickActions": {
       "enabled": true,
       "toggleMode": true,
@@ -221,7 +222,7 @@
     }
   },
   "deployment": {
-    "platform": "netlify"
+    "platform": "vercel"
   },
   "pluginConfig": {
     "obsidianSettings": {
@@ -238,7 +239,7 @@
     }
   },
   "optionalContentTypes": {
-    "projects": true,
+    "projects": false,
     "docs": true
   },
   "availableThemes": "default",

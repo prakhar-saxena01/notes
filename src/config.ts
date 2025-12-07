@@ -180,13 +180,13 @@ export interface SiteConfig {
 export const siteConfig: SiteConfig = {
   // Site Information
   // [CONFIG:SITE_URL]
-  site: "https://astro-modular.netlify.app",
+  site: "https://prakhar.sbs",
   // [CONFIG:SITE_TITLE]
-  title: "Astro Modular",
+  title: "my notes",
   // [CONFIG:SITE_DESCRIPTION]
-  description: "A flexible blog theme designed for Obsidian users.",
+  description: "my upsc notes",
   // [CONFIG:SITE_AUTHOR]
-  author: "David V. Kimball",
+  author: "Prakhar Saxena",
   // [CONFIG:SITE_LANGUAGE]
   language: "en",
   // [CONFIG:FAVICON_THEME_ADAPTIVE]
@@ -227,21 +227,21 @@ export const siteConfig: SiteConfig = {
   },
   footer: {
     // [CONFIG:FOOTER_ENABLED]
-    enabled: true,
+    enabled: false,
     // [CONFIG:FOOTER_CONTENT]
-    content: `© 2025 {author}. Built with the <a href="https://github.com/davidvkimball/astro-modular" target="_blank">Astro Modular</a> theme.`,
+    content: `© 2025 {author}`,
     // [CONFIG:FOOTER_SHOW_SOCIAL_ICONS]
-    showSocialIconsInFooter: true,
+    showSocialIconsInFooter: false,
   },
   //[CONFIG:HIDE_SCROLL_BAR]
-  hideScrollBar: false,
+  hideScrollBar: true,
   // [CONFIG:SCROLL_TO_TOP]
   scrollToTop: true,
   // [CONFIG:FEATURE_BUTTON]
-  featureButton: "mode", // "mode" | "graph" | "theme" | "none"
+  featureButton: "graph", // "mode" | "graph" | "theme" | "none"
   deployment: {
     // [CONFIG:DEPLOYMENT_PLATFORM]
-    platform: "netlify", // "netlify" | "vercel" | "github-pages" | "cloudflare-workers" - sets redirect configuration for the chosen platform (Cloudflare Workers uses Workers-compatible config)
+    platform: "vercel", // "netlify" | "vercel" | "github-pages" | "cloudflare-workers" - sets redirect configuration for the chosen platform (Cloudflare Workers uses Workers-compatible config)
   },
 
   // Command Palette
@@ -251,24 +251,24 @@ export const siteConfig: SiteConfig = {
     // [CONFIG:COMMAND_PALETTE_SHORTCUT]
     shortcut: "ctrl+K",
     // [CONFIG:COMMAND_PALETTE_PLACEHOLDER]
-    placeholder: "Search posts",
+    placeholder: "Search",
     search: {
       // [CONFIG:COMMAND_PALETTE_SEARCH_POSTS]
-      posts: true,
+      posts: false,
       // [CONFIG:COMMAND_PALETTE_SEARCH_PAGES]
       pages: false,
       // [CONFIG:COMMAND_PALETTE_SEARCH_PROJECTS]
       projects: false,
       // [CONFIG:COMMAND_PALETTE_SEARCH_DOCS]
-      docs: false,
+      docs: true,
     },
     sections: {
       // [CONFIG:COMMAND_PALETTE_SECTIONS_QUICK_ACTIONS]
       quickActions: true,
       // [CONFIG:COMMAND_PALETTE_SECTIONS_PAGES]
-      pages: true,
+      pages: false,
       // [CONFIG:COMMAND_PALETTE_SECTIONS_SOCIAL]
-      social: true,
+      social: false,
     },
     quickActions: {
       // [CONFIG:COMMAND_PALETTE_QUICK_ACTIONS_ENABLED]
@@ -305,36 +305,22 @@ export const siteConfig: SiteConfig = {
     // [CONFIG:NAVIGATION_SHOW_NAVIGATION]
     showNavigation: true,
     // [CONFIG:NAVIGATION_STYLE]
-    style: "traditional", // 'minimal' or 'traditional'
+    style: "minimal", // 'minimal' or 'traditional'
     // [CONFIG:NAVIGATION_SHOW_MOBILE_MENU]
     showMobileMenu: true,
     // [CONFIG:NAVIGATION_PAGES]
     pages: [
-      { title: "Posts", url: "/posts/" },
-      { title: "Projects", url: "/projects/" },
       { title: "Docs", url: "/docs/" },
       { title: "About", url: "/about/" },
-      { title: "GitHub", url: "https://github.com/davidvkimball/astro-modular" },
     ],
     // [CONFIG:NAVIGATION_SOCIAL]
-    social: [
-      {
-        title: "X",
-        url: "https://x.com/davidvkimball",
-        icon: "x-twitter",
-      },
-      {
-        title: "GitHub",
-        url: "https://github.com/davidvkimball",
-        icon: "github",
-      },
-    ],
+    social: [],
   },
 
   // Optional Content Types - Enable/disable optional content sections (takes priority over homeOptions)
   optionalContentTypes: {
     // [CONFIG:OPTIONAL_CONTENT_TYPES_PROJECTS]
-    projects: true, // Enable projects section
+    projects: false, // Enable projects section
     // [CONFIG:OPTIONAL_CONTENT_TYPES_DOCS]
     docs: true, // Enable documentation section
   },
@@ -343,7 +329,7 @@ export const siteConfig: SiteConfig = {
   homeOptions: {
     featuredPost: {
       // [CONFIG:HOME_OPTIONS_FEATURED_POST_ENABLED]
-      enabled: true, // Show featured post on homepage
+      enabled: false, // Show featured post on homepage
       // [CONFIG:HOME_OPTIONS_FEATURED_POST_TYPE]
       type: "latest", // "latest" or "featured"
       // [CONFIG:HOME_OPTIONS_FEATURED_POST_SLUG]
@@ -351,13 +337,13 @@ export const siteConfig: SiteConfig = {
     },
     recentPosts: {
       // [CONFIG:HOME_OPTIONS_RECENT_POSTS_ENABLED]
-      enabled: true, // Show recent posts on homepage
+      enabled: false, // Show recent posts on homepage
       // [CONFIG:HOME_OPTIONS_RECENT_POSTS_COUNT]
       count: 7, // Number of recent posts to show
     },
     projects: {
       // [CONFIG:HOME_OPTIONS_PROJECTS_ENABLED]
-      enabled: true, // Show featured projects on homepage
+      enabled: false, // Show featured projects on homepage
       // [CONFIG:HOME_OPTIONS_PROJECTS_COUNT]
       count: 2, // Number of projects to show
     },
@@ -365,11 +351,11 @@ export const siteConfig: SiteConfig = {
       // [CONFIG:HOME_OPTIONS_DOCS_ENABLED]
       enabled: true, // Show featured docs on homepage
       // [CONFIG:HOME_OPTIONS_DOCS_COUNT]
-      count: 3, // Number of docs to show
+      count: 9, // Number of docs to show
     },
     blurb: {
       // [CONFIG:HOME_OPTIONS_BLURB_PLACEMENT]
-      placement: "below", // 'above' (at the top), 'below' (after content), or 'none' (disabled)
+      placement: "above", // 'above' (at the top), 'below' (after content), or 'none' (disabled)
     },
   },
 
@@ -387,11 +373,11 @@ export const siteConfig: SiteConfig = {
       // [CONFIG:POST_OPTIONS_LINKED_MENTIONS_ENABLED]
       enabled: true,
       // [CONFIG:POST_OPTIONS_LINKED_MENTIONS_COMPACT]
-      linkedMentionsCompact: false,
+      linkedMentionsCompact: true,
     },
     graphView: {
       // [CONFIG:POST_OPTIONS_GRAPH_VIEW_ENABLED]
-      enabled: true,
+      enabled: false,
       // [CONFIG:POST_OPTIONS_GRAPH_VIEW_SHOW_IN_SIDEBAR]
       showInSidebar: true,
       // [CONFIG:POST_OPTIONS_GRAPH_VIEW_MAX_NODES]
