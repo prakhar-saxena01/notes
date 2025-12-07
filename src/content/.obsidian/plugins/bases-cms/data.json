@@ -19,6 +19,6 @@
   "showToolbarRemove": true,
   "showToolbarDelete": true,
   "forceStaticGifImages": false,
-  "showPropertiesInfoModal": true,
+  "showPropertiesInfoModal": false,
   "thumbnailCacheSize": "balanced"
 }

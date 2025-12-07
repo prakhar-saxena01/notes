@@ -16,13 +16,13 @@ featured: false
 # 🧭 MASTER INDEX — UPSC MASTER VAULT
 ---
 # ⭐ PRELIMS
-- [[01_PRELIMS/Economy/index]]
-- [[01_PRELIMS/Polity/index]]
-- [[01_PRELIMS/Geography/index]]
-- [[01_PRELIMS/Environment/index]]
-- [[01_PRELIMS/History/index]]
-- [[01_PRELIMS/S&T/index]]
-- [[01_PRELIMS/Prelims_CA/index]]
+- [[01_PRELIMS/Economy/index|Economy]]
+- [[01_PRELIMS/Polity/index|Polity]]
+- [[01_PRELIMS/Geography/index|Geography]]
+- [[01_PRELIMS/Environment/index|Environment]]
+- [[01_PRELIMS/History/index|History]]
+- [[01_PRELIMS/S&T/index|Science & Technology]]
+- [[../01_PRELIMS/Prelims_CA/index|Prelims CA]]
 ---
 # ⭐ GS1
 ## History
