@@ -1,7 +1,7 @@
 ---
-title: "Master Index"
+title: Master Index
 description: ""
-category: ""
+category: Index
 order: 0
 lastModified: 2025-12-07
 version: ""
