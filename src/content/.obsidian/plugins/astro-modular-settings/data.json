@@ -133,13 +133,13 @@
       "linkedMentionsCompact": true
     },
     "graphView": {
-      "enabled": false,
-      "showInSidebar": true,
-      "maxNodes": 100,
+      "enabled": true,
+      "showInSidebar": false,
+      "maxNodes": 500,
       "showOrphanedPosts": true
     },
     "postNavigation": true,
-    "showPostCardCoverImages": "featured-and-posts",
+    "showPostCardCoverImages": "all",
     "postCardAspectRatio": "og",
     "customPostCardAspectRatio": "2.5/1",
     "comments": {
@@ -165,7 +165,7 @@
     "readingTime": true,
     "linkedMentions": true,
     "linkedMentionsCompact": true,
-    "graphView": false,
+    "graphView": true,
     "postNavigation": true,
     "hideScrollBar": true,
     "scrollToTop": true,
@@ -178,7 +178,8 @@
       "toggleMode": true,
       "graphView": true,
       "changeTheme": true
-    }
+    },
+    "showPostCardCoverImages": "all"
   },
   "typography": {
     "headingFont": "Inter",
