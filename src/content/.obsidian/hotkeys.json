@@ -225,5 +225,14 @@
       ],
       "key": " "
     }
+  ],
+  "astro-composer:convert-wikilinks-astro": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
   ]
 }
