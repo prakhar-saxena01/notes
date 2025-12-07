@@ -1,7 +1,7 @@
 ---
-title: index
+title: Polity
 description: ""
-category: Prelims Polity
+category: Prelims
 order: 0
 lastModified: 2025-12-07
 version: ""

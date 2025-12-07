@@ -1,7 +1,7 @@
 ---
-title: index
+title: Environment
 description: ""
-category: Prelims Environment
+category: Prelims
 order: 0
 lastModified: 2025-12-07
 version: ""

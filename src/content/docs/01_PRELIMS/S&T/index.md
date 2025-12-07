@@ -1,7 +1,7 @@
 ---
-title: index
+title: Science and Technology
 description: ""
-category: Prelims S&T
+category: Prelims
 order: 0
 lastModified: 2025-12-07
 version: ""
