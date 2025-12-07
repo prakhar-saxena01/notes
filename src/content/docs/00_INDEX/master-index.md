@@ -16,8 +16,8 @@ featured: false
 # 🧭 MASTER INDEX — UPSC MASTER VAULT
 ---
 # ⭐ PRELIMS
-- [Economy](../01_PRELIMS/Economy/index)
-- [Polity](../01_PRELIMS/Polity/index)
+- [Economy](../01_prelims/economy/index)
+- [Polity](../01_prelims/polity/index)
 - [Geography](../01_PRELIMS/Geography/index)
 - [Environment](../01_PRELIMS/Environment/index)
 - [History](../01_PRELIMS/History/index)
