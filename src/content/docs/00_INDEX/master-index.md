@@ -17,7 +17,7 @@ featured: false
 ---
 # ⭐ PRELIMS
 - [docs/01_PRELIMS/Economy/index](/01prelims/economy/)
-- [docs/01_PRELIMS/Polity/index]
+- [docs/01_PRELIMS/Polity/index](/01prelims/polity/)
 - [docs/01_PRELIMS/Geography/index](/01prelims/geography/)
 - [docs/01_PRELIMS/Environment/index](/01prelims/environment/)
 - [[01_PRELIMS/History/index]]
