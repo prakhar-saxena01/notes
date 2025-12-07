@@ -2,7 +2,7 @@
 title: Economy
 description: ""
 category: Prelims
-order:
+order: 0
 lastModified: 2025-12-07
 version: ""
 image: ""
