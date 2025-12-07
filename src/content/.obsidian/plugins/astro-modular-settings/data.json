@@ -1,6 +1,6 @@
 {
   "runWizardOnStartup": false,
-  "currentTemplate": "compact",
+  "currentTemplate": "standard",
   "currentTheme": "oxygen",
   "customThemeFile": "custom",
   "contentOrganization": "file-based",
@@ -58,14 +58,14 @@
   "footer": {
     "enabled": false,
     "content": "© 2025 {author}",
-    "showSocialIconsInFooter": false
+    "showSocialIconsInFooter": true
   },
   "seo": {
     "defaultOgImageAlt": "Astro Modular logo."
   },
   "navigation": {
     "showNavigation": true,
-    "style": "minimal",
+    "style": "traditional",
     "showMobileMenu": true,
     "pages": [
       {
@@ -85,20 +85,20 @@
     "placeholder": "Search",
     "search": {
       "posts": false,
-      "pages": false,
+      "pages": true,
       "projects": false,
       "docs": true
     },
     "sections": {
       "quickActions": true,
-      "pages": false,
+      "pages": true,
       "social": false
     },
     "quickActions": {
       "enabled": true,
       "toggleMode": true,
       "graphView": true,
-      "changeTheme": true
+      "changeTheme": false
     }
   },
   "homeOptions": {
@@ -109,7 +109,7 @@
     },
     "recentPosts": {
       "enabled": false,
-      "count": 7
+      "count": 9
     },
     "projects": {
       "enabled": false,
@@ -124,17 +124,17 @@
     }
   },
   "postOptions": {
-    "postsPerPage": 6,
+    "postsPerPage": 10,
     "readingTime": true,
     "wordCount": true,
     "tags": true,
     "linkedMentions": {
       "enabled": true,
-      "linkedMentionsCompact": true
+      "linkedMentionsCompact": false
     },
     "graphView": {
       "enabled": true,
-      "showInSidebar": false,
+      "showInSidebar": true,
       "maxNodes": 500,
       "showOrphanedPosts": true
     },
@@ -164,12 +164,12 @@
     "commandPalette": true,
     "readingTime": true,
     "linkedMentions": true,
-    "linkedMentionsCompact": true,
+    "linkedMentionsCompact": false,
     "graphView": true,
     "postNavigation": true,
-    "hideScrollBar": true,
+    "hideScrollBar": false,
     "scrollToTop": true,
-    "showSocialIconsInFooter": false,
+    "showSocialIconsInFooter": true,
     "profilePicture": false,
     "comments": false,
     "featureButton": "graph",
@@ -177,7 +177,7 @@
       "enabled": true,
       "toggleMode": true,
       "graphView": true,
-      "changeTheme": true
+      "changeTheme": false
     },
     "showPostCardCoverImages": "all"
   },

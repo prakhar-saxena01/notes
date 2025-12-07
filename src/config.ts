@@ -182,7 +182,7 @@ export const siteConfig: SiteConfig = {
   // [CONFIG:SITE_URL]
   site: "https://prakhar.sbs",
   // [CONFIG:SITE_TITLE]
-  title: "my notes",
+  title: "Notes",
   // [CONFIG:SITE_DESCRIPTION]
   description: "my upsc notes",
   // [CONFIG:SITE_AUTHOR]
@@ -231,10 +231,10 @@ export const siteConfig: SiteConfig = {
     // [CONFIG:FOOTER_CONTENT]
     content: `© 2025 {author}`,
     // [CONFIG:FOOTER_SHOW_SOCIAL_ICONS]
-    showSocialIconsInFooter: false,
+    showSocialIconsInFooter: true,
   },
   //[CONFIG:HIDE_SCROLL_BAR]
-  hideScrollBar: true,
+  hideScrollBar: false,
   // [CONFIG:SCROLL_TO_TOP]
   scrollToTop: true,
   // [CONFIG:FEATURE_BUTTON]
@@ -256,7 +256,7 @@ export const siteConfig: SiteConfig = {
       // [CONFIG:COMMAND_PALETTE_SEARCH_POSTS]
       posts: false,
       // [CONFIG:COMMAND_PALETTE_SEARCH_PAGES]
-      pages: false,
+      pages: true,
       // [CONFIG:COMMAND_PALETTE_SEARCH_PROJECTS]
       projects: false,
       // [CONFIG:COMMAND_PALETTE_SEARCH_DOCS]
@@ -266,7 +266,7 @@ export const siteConfig: SiteConfig = {
       // [CONFIG:COMMAND_PALETTE_SECTIONS_QUICK_ACTIONS]
       quickActions: true,
       // [CONFIG:COMMAND_PALETTE_SECTIONS_PAGES]
-      pages: false,
+      pages: true,
       // [CONFIG:COMMAND_PALETTE_SECTIONS_SOCIAL]
       social: false,
     },
@@ -278,7 +278,7 @@ export const siteConfig: SiteConfig = {
       // [CONFIG:COMMAND_PALETTE_QUICK_ACTIONS_GRAPH_VIEW]
       graphView: true,
       // [CONFIG:COMMAND_PALETTE_QUICK_ACTIONS_CHANGE_THEME]
-      changeTheme: true,
+      changeTheme: false,
     },
   },
 
@@ -305,7 +305,7 @@ export const siteConfig: SiteConfig = {
     // [CONFIG:NAVIGATION_SHOW_NAVIGATION]
     showNavigation: true,
     // [CONFIG:NAVIGATION_STYLE]
-    style: "minimal", // 'minimal' or 'traditional'
+    style: "traditional", // 'minimal' or 'traditional'
     // [CONFIG:NAVIGATION_SHOW_MOBILE_MENU]
     showMobileMenu: true,
     // [CONFIG:NAVIGATION_PAGES]
@@ -339,7 +339,7 @@ export const siteConfig: SiteConfig = {
       // [CONFIG:HOME_OPTIONS_RECENT_POSTS_ENABLED]
       enabled: false, // Show recent posts on homepage
       // [CONFIG:HOME_OPTIONS_RECENT_POSTS_COUNT]
-      count: 7, // Number of recent posts to show
+      count: 9, // Number of recent posts to show
     },
     projects: {
       // [CONFIG:HOME_OPTIONS_PROJECTS_ENABLED]
@@ -362,7 +362,7 @@ export const siteConfig: SiteConfig = {
   // Post Options
   postOptions: {
     // [CONFIG:POST_OPTIONS_POSTS_PER_PAGE]
-    postsPerPage: 6,
+    postsPerPage: 10,
     // [CONFIG:POST_OPTIONS_READING_TIME]
     readingTime: true,
     // [CONFIG:POST_OPTIONS_WORD_COUNT]
@@ -373,13 +373,13 @@ export const siteConfig: SiteConfig = {
       // [CONFIG:POST_OPTIONS_LINKED_MENTIONS_ENABLED]
       enabled: true,
       // [CONFIG:POST_OPTIONS_LINKED_MENTIONS_COMPACT]
-      linkedMentionsCompact: true,
+      linkedMentionsCompact: false,
     },
     graphView: {
       // [CONFIG:POST_OPTIONS_GRAPH_VIEW_ENABLED]
       enabled: true,
       // [CONFIG:POST_OPTIONS_GRAPH_VIEW_SHOW_IN_SIDEBAR]
-      showInSidebar: false,
+      showInSidebar: true,
       // [CONFIG:POST_OPTIONS_GRAPH_VIEW_MAX_NODES]
       maxNodes: 500,
       // [CONFIG:POST_OPTIONS_GRAPH_VIEW_SHOW_ORPHANED_POSTS]
