@@ -3,7 +3,7 @@ title: Master Index
 description: ""
 category: Index
 order: 0
-lastModified: 2025-12-07
+lastModified:
 version: ""
 image: ""
 imageAlt: ""
@@ -12,6 +12,8 @@ hideTOC: false
 draft: false
 noIndex: false
 featured: false
+aliases:
+  - master-index
 ---
 # 🧭 MASTER INDEX — UPSC MASTER VAULT
 ---
