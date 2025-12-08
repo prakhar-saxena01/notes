@@ -1,5 +1,5 @@
 ---
-title: Geography
+title: History
 description: ""
 category: Prelims
 order: 0
@@ -12,4 +12,6 @@ hideTOC: false
 draft: false
 noIndex: false
 featured: false
+aliases:
+  - History
 ---

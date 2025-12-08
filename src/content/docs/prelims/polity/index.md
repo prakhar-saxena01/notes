@@ -1,5 +1,5 @@
 ---
-title: History
+title: Polity
 description: ""
 category: Prelims
 order: 0
@@ -12,4 +12,6 @@ hideTOC: false
 draft: false
 noIndex: false
 featured: false
+aliases:
+  - Polity
 ---

@@ -12,4 +12,6 @@ hideTOC: false
 draft: false
 noIndex: false
 featured: false
+aliases:
+  - S&T
 ---

@@ -1,6 +1,5 @@
 ---
 title: Notes
-description: all notes here
+description:
 hideTOC: false
 ---
-Find everything you need here.
