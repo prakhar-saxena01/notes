@@ -1,7 +1,7 @@
 ---
 title: Essay Daily
 description: ""
-category: ""
+category: Answer Writing Practice
 order: 0
 lastModified: 2025-12-09
 version: ""
