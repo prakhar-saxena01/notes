@@ -144,8 +144,8 @@ draft: false
 ## Hindi
 - [Hindi Compulsory Language](docs/lang/hindi/index.md)
 ---
-# ⭐ CA
- ## Monthly
+# ⭐CA
+## Monthly
 - [January](docs/current-affairs/monthly/january/index.md)
 - [February](docs/current-affairs/monthly/february/index.md)
 - [March](docs/current-affairs/monthly/march/index.md)
