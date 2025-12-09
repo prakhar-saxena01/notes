@@ -104,7 +104,7 @@
   "homeOptions": {
     "featuredPost": {
       "enabled": true,
-      "type": "latest",
+      "type": "featured",
       "slug": ""
     },
     "recentPosts": {
@@ -120,7 +120,7 @@
       "count": 9
     },
     "blurb": {
-      "placement": "below"
+      "placement": "none"
     }
   },
   "postOptions": {
