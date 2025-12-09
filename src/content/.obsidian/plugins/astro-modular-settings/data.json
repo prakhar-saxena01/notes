@@ -103,9 +103,9 @@
   },
   "homeOptions": {
     "featuredPost": {
-      "enabled": false,
-      "type": "latest",
-      "slug": "getting-started"
+      "enabled": true,
+      "type": "featured",
+      "slug": "/index"
     },
     "recentPosts": {
       "enabled": false,
@@ -116,7 +116,7 @@
       "count": 2
     },
     "docs": {
-      "enabled": true,
+      "enabled": false,
       "count": 9
     },
     "blurb": {
