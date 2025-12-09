@@ -18,157 +18,164 @@ aliases:
 # 🧭 MASTER INDEX — UPSC MASTER VAULT
 ---
 # ⭐ PRELIMS
-- [Economy](docs/prelims/economy/index.md)
-- [Polity](docs/prelims/polity/index.md)
-- [Environment](docs/prelims/environment/index.md)
-- [Geography](docs/prelims/geography/index.md)
-- [History](docs/prelims/history/index.md)
-- [Science and Technology](../docs/prelims/science_technology/index.md)
-- [Current Affairs](docs/prelims/prelims_ca/index.md)
+- [Prelims Economy](docs/prelims/economy/index.md)
+- [Prelims Polity](docs/prelims/polity/index.md)
+- [Prelims Environment](docs/prelims/environment/index.md)
+- [Prelims Geography](docs/prelims/geography/index.md)
+- [Prelims History](docs/prelims/history/index.md)
+- [Prelims Science and Technology](docs/prelims/science_technology/index.md)
+- [Prelims Current Affairs](docs/prelims/prelims_ca/index.md)
 ---
 # ⭐ GS1
 ## History
-- 
-- [[../gs1/medieval/index]]
-- [[../gs1/modern/index]]
-- [[../gs1/post_independence/index]]
-- [[../gs1/World_History/index]]
-- [[../gs1/art_culture/index]]
+- [Ancient History](docs/gs1/ancient/index.md)
+- [Medieval History](docs/gs1/medieval/index.md)
+- [Modern History](docs/gs1/modern/index.md)
+- [Post Independence History](docs/gs1/post_independence/index.md)
+- [World History](docs/gs1/world_history/index.md)
 ## Society
-- [[../gs1/indian_society/index]]
+- [Indian Society](docs/gs1/indian_society/index.md)
 
 ## Geography
-- [[../gs1/geography/physical/index]]
-- [[../gs1/geography/india/index]]
-- [[../gs1/Geography/economic/index]]
-- [[../gs1/geography/human/index]]
+- [Physical Geography](docs/gs1/geography/physical/index.md)
+- [Indian Geography](docs/gs1/geography/india/index.md)
+- [Economic Geography](docs/gs1/geography/economic/index.md)
+- [Human Geography](docs/gs1/geography/human/index.md)
 ---
 # ⭐ GS2
 ## Polity
-- [[../docs/gs2/polity/Indian Polity and Constitution/index]]
-- [[../docs/gs2/polity/executive/index]]
-- [[../docs/gs2/polity/legislature/index]]
-- [[../docs/gs2/polity/judiciary/index]]
-- [[../docs/gs2/polity/constitutional_bodies/index]]
-- [[../docs/gs2/polity/non_constitutional_bodies/index]]
+- [Indian Polity & Constitution](docs/gs2/polity/indian_polity_constitution/index.md)
+- [Legislature](docs/gs2/polity/legislature/index.md)
+- [Executive](docs/gs2/polity/executive/index.md)
+- [Judiciary](docs/gs2/polity/judiciary/index.md)
+- [Constitutional Bodies](docs/gs2/polity/constitutional_bodies/index.md)
+- [Non Constitutional Bodies](docs/gs2/polity/non_constitutional_bodies/index.md)
 ## Governance
-- [[../gs2/governance/index]]
+- [Governance](docs/gs2/governance/index.md)
 ## Social Justice
-- [[../docs/gs2/social_justice/index]]
+- [Social Justice](docs/gs2/social_justice/index.md)
 ## International Relations
-- [[../docs/gs2/international_relations/index]]
+- [International Relations](docs/gs2/international_relations/index.md)
 ## GS2 CA Linked
-- [[../docs/gs2/gs2_ca_linked/polity/index]]
-- [[../docs/gs2/gs2_ca_linked/governance/index]]
-- [[../docs/gs2/gs2_ca_linked/Social Justice/index]]
-- [[../docs/gs2/gs2_ca_linked/international relations/index]]
+- [CA Polity](docs/gs2/gs2_ca_linked/polity/index.md)
+- [CA Governance](docs/gs2/gs2_ca_linked/governance/index.md)
+- [CA Social Justice](docs/gs2/gs2_ca_linked/social_justice/index.md)
+- [CA International Relations](docs/gs2/gs2_ca_linked/international_relations/index.md)
 ---
 # ⭐ GS3
 ## Economy
-- [[../gs3/Economy/Basics/index]]
-- [[../docs/gs3/economy/sectors_indian_economy/index]]
-- [[../docs/gs3/economy/policy_and_reforms/index]]
+- [Economy Basics](docs/gs3/economy/basics/index.md)
+- [Economy Policy and Reforms](docs/gs3/economy/policy_and_reforms/index.md)
+- [Sectors Of Indian Economy](docs/gs3/economy/sectors_indian_economy/index.md)
 ## Agriculture
-- [[../docs/gs3/agriculture/index]]
+- [Agriculture](docs/gs3/agriculture/index.md)
 ## Environment
-- [[../gs3/Environment/index]]
+- [Environment](docs/gs3/environment/index.md)
 ## Disaster Management
-- [[../gs3/Disaster_Management/index]]
+- [Disaster Management](docs/gs3/disaster_management/index.md)
 ## Science & Technology
-- [[../gs3/S&T/index]]
+- [Science and Technology](docs/gs3/science_technology/index.md)
 ## Internal Security
-- [[../gs3/Security/index]]
+- [Internal Security](docs/gs3/security/index.md)
 ## GS3 CA Linked
-- [[../docs/gs3/gs3_ca_linked/economy/index]]
+- [CA Economy](docs/gs3/gs3_ca_linked/economy/index.md)
+- [CA Agriculture](docs/gs3/gs3_ca_linked/agriculture/index.md)
+- [CA Environment](docs/gs3/gs3_ca_linked/environment/index.md)
+- [CA Disaster Management](docs/gs3/gs3_ca_linked/disaster_management/index.md)
+- [CA Disaster Management](docs/gs3/gs3_ca_linked/disaster_management/index.md)
+- [CA Internal Security](docs/gs3/gs3_ca_linked/security/index.md)
 ---
 # ⭐ GS4 Ethics
-- [[../docs/gs4-ethics/definitions/index]]
-- [[../docs/gs4-ethics/values/index]]
-- [[../docs/gs4-ethics/attitude/index]]
-- [[../docs/gs4-ethics/emotional_intelligence/index]]
-- [[../docs/gs4-ethics/moral_philosophy/index]]
-- [[../docs/gs4-ethics/civil_service_values/index]]
-- [[../docs/gs4-ethics/administrative_ethics/index]]
-- [[../docs/gs4-ethics/thinkers/index]]
-- [[../docs/gs4-ethics/case_studies/index]]
-- [[../docs/gs4-ethics/quotes/index]]
-- [[../docs/gs4-ethics/ethics_ca_linked/index]]
+- [Ethics Definitions](docs/gs4-ethics/definitions/index.md)
+- [Ethics Values](docs/gs4-ethics/values/index.md)
+- [Ethics Attitude](docs/gs4-ethics/attitude/index.md)
+- [Emotional Intelligence](docs/gs4-ethics/emotional_intelligence/index.md)
+- [Moral Philosophy](docs/gs4-ethics/moral_philosophy/index.md)
+- [Civil Service Values](docs/gs4-ethics/civil_service_values/index.md)
+- [Administrative Ethics](docs/gs4-ethics/administrative_ethics/index.md)
+- [Ethics Thinkers](docs/gs4-ethics/thinkers/index.md)
+- [Ethics Case Studies](docs/gs4-ethics/case_studies/index.md)
+- [Ethics Quotes](docs/gs4-ethics/quotes/index.md)
+- [Ethics CA Linked](docs/gs4-ethics/ethics_ca_linked/index.md)
 ---
 # ⭐ GEOGRAPHY OPTIONAL
 ## PAPER I
 ### Part A
-- [[../docs/opt-geo/paper_1/part_a/Geomorphology/index]]
-- [[../docs/opt-geo/paper_1/part_a/climatology/index]]
-- [[../docs/opt-geo/paper_1/part_a/oceanography/index]]
-- [[../docs/opt-geo/paper_1/part_a/biogeography/index]]
-- [[../docs/opt-geo/paper_1/part_a/Environmental_Geography/index]]
+- [Geomorphology](docs/opt-geo/paper_1/part_a/geomorphology/index.md)
+- [Oceanography](docs/opt-geo/paper_1/part_a/oceanography/index.md)
+- [Climatology](docs/opt-geo/paper_1/part_a/climatology/index.md)
+- [Biogeography](docs/opt-geo/paper_1/part_a/biogeography/index.md)
+- [Environmental Geography](docs/opt-geo/paper_1/part_a/environmental_geography/index.md)
 
 ### Part B
-- [[../docs/opt-geo/paper_1/part_b/perspectives_thought/index]]
-- [[../docs/opt-geo/paper_1/part_b/human_geography/index]]
-- [[../docs/opt-geo/paper_1/part_b/population_geography/index]]
-- [[../docs/opt-geo/paper_1/part_b/settlement_geography/index]]
-- [[../docs/opt-geo/paper_1/part_b/economic_geography/index]]
-- [[../docs/opt-geo/paper_1/part_b/regional_planning/index]]
-- [[../docs/opt-geo/paper_1/part_b/models_theories/index]]
-- [[../docs/opt-geo/paper_1/part_b/transport_communication/index]]
-- [[../docs/opt-geo/paper_1/part_b/Resources_Industries/index]]
+- [Perspectives and Thoughts](docs/opt-geo/paper_1/part_b/perspectives_thought/index.md)
+- [Human Geography](docs/opt-geo/paper_1/part_b/human_geography/index.md)
+- [Population Geography](docs/opt-geo/paper_1/part_b/population_geography/index.md)
+- [Settlement Geography](docs/opt-geo/paper_1/part_b/settlement_geography/index.md)
+- [Economic Geography](docs/opt-geo/paper_1/part_b/economic_geography/index.md)
+- [Regional Development and Planning](docs/opt-geo/paper_1/part_b/regional_planning/index.md)
+- [Models and Theories](docs/opt-geo/paper_1/part_b/models_theories/index.md)
+- [Transport and Communications](docs/opt-geo/paper_1/part_b/transport_communication/index.md)
+- [Resources and Industries](docs/opt-geo/paper_1/part_b/resources_industries/index.md)
 
 ## PAPER II
-- [[../docs/opt-geo/paper2/indian_geography/physical_setting/index]]
--  [[../docs/opt-geo/paper2/indian_geography/Resources/index]]
--  [[../docs/opt-geo/PAPER_II/indian_geography/agriculture/index]]
--  [[../docs/opt-geo/paper2/indian_geography/industry/index]]
--  [[../docs/opt-geo/paper2/indian_geography/transport/index]]
--  [[../docs/opt-geo/paper2/indian_geography/Culture/index]]
-- [[../docs/opt-geo/paper2/indian_geography/settlements/index]]
-- [[../docs/opt-geo/paper2/indian_geography/regional_planning/index]]
-- [[../docs/opt-geo/paper2/indian_geography/political_aspects/index]]
-- [[../docs/opt-geo/paper2/indian_geography/contemporary/index]]
+- [India's Physical Setting](docs/opt-geo/paper2/indian_geography/physical_setting/index.md)
+- [Indian Resource Geography](docs/opt-geo/paper2/indian_geography/resources/index.md)
+- [Indian Agricultural Geography](docs/opt-geo/paper2/indian_geography/agriculture/index.md)
+- [Indian Industrial Geography](docs/opt-geo/paper2/indian_geography/industry/index.md)
+- [Indian Transport Geography](docs/opt-geo/paper2/indian_geography/transport/index.md)
+- [Indian Cultural Geography](docs/opt-geo/paper2/indian_geography/culture/index.md)
+- [Indian Settlement Geography](docs/opt-geo/paper2/indian_geography/settlements/index.md)
+- [Indian Settlement Geography](docs/opt-geo/paper2/indian_geography/settlements/index.md)
+- [Indian Political Geography](docs/opt-geo/paper2/indian_geography/political_aspects/index.md)
+- [Indian Contemporary Geography](docs/opt-geo/paper2/indian_geography/contemporary/index.md)
 ### Diagrams
-- [[../docs/opt-geo/maps_diagrams/index]]
+- [Maps and Diagrams](docs/opt-geo/maps_diagrams/index.md)
 ### CA Integration
-- [[../docs/opt-geo/opt-geo-ca/index]]
+- [CA Geography Optional](docs/opt-geo/opt-geo-ca/index.md)
 ---
 # ⭐ ESSAY
-- [[../essay/Themes/index]]
-- [[../essay/Mindmaps/index]]
-- [[../essay/Quotes/index]]
-- [[../essay/Anecdotes/index]]
-- [[../essay/Philosophy_Ideas/index]]
-- [[../essay/Model_Essays/index]]
+- [Essay Themes](docs/essay/themes/index.md)
+- [Essay Mindmaps](docs/essay/mindmaps/index.md)
+- [Essay Quotes](docs/essay/quotes/index.md)
+- [Essay Anecdotes](docs/essay/anecdotes/index.md)
+- [Philosophical Essay Ideas](docs/essay/philosophy_ideas/index.md)
+- [Model Essays](docs/essay/model_essays/index.md)
 ---
 # ⭐Compulsory Languages
 ## English
-- [[../docs/lang/english/index]]
+- [English Compulsory Language](docs/lang/english/index.md)
 ## Hindi
-- [[../docs/lang/hindi/index]]
+- [Hindi Compulsory Language](docs/lang/hindi/index.md)
 ---
 # ⭐ CA
-- [[../current-affairs/Monthly/January/index]]
-- [[../current-affairs/Monthly/February/index]]
-- [[../current-affairs/Monthly/March/index]]
-- [[../current-affairs/Monthly/April/index]]
-- [[../current-affairs/Monthly/May/index]]
-- [[../current-affairs/Monthly/June/index]]
-- [[../current-affairs/Monthly/July/index]]
-- [[../current-affairs/Monthly/August/index]]
-- [[../current-affairs/Monthly/September/index]]
-- [[../current-affairs/Monthly/October/index]]
-- [[../current-affairs/Monthly/November/index]]
-- [[../current-affairs/Monthly/December/index]]
-- [[../current-affairs/CA_Themes/index]]
-- [[../current-affairs/Schemes/index]]
-- [[../current-affairs/Reports/index]]
-- [[../current-affairs/Budget_Survey/index]]
+ ## Monthly
+- [CA Monthly January](docs/current-affairs/monthly/january/index.md)
+- [CA Monthly February](docs/current-affairs/monthly/february/index.md)
+- [CA Monthly March](docs/current-affairs/monthly/march/index.md)
+- [CA Monthly April](docs/current-affairs/monthly/april/index.md)
+- [CA Monthly May](docs/current-affairs/monthly/may/index.md)
+- [CA Monthly June](docs/current-affairs/monthly/june/index.md)
+- [CA Monthly July](docs/current-affairs/monthly/july/index.md)
+- [CA Monthly August](docs/current-affairs/monthly/august/index.md)
+- [CA Monthly September](docs/current-affairs/monthly/september/index.md)
+- [CA Monthly October](docs/current-affairs/monthly/october/index.md)
+- [CA Monthly November](docs/current-affairs/monthly/november/index.md) 
+- [CA Monthly December](docs/current-affairs/monthly/december/index.md)
+## Reports
+- [CA Reports](docs/current-affairs/reports/index.md)
+- [Budget and Economic Surveys](docs/current-affairs/budget_survey/budget-and-economic-surveys.md)
+- [CA Schemes](docs/current-affairs/schemes/index.md)
+## Themes
+- [Current Affairs Themes](docs/current-affairs/ca_themes/index.md)
 ---
 # Answer Writing Practice
 ## GS
-- [[../awp/GS_Daily/index]]
-- [[../awp/GS_Full/index]]
+- [GS Daily](docs/awp/gs_daily/index.md)
+- [GS Full](docs/awp/gs_full/index.md)
 ## Essay
-- [[../awp/Essay_Daily/index]]
+- [Essay Daily](docs/awp/essay_daily/index.md)
 ## Optional
-- [[../awp/Optional_Daily/index]]
-- [[../awp/Optional_Full/index]]
+- [Optional Daily](docs/awp/optional_daily/index.md)
+- [Optional Full](docs/awp/optional_full/index.md)
 ---

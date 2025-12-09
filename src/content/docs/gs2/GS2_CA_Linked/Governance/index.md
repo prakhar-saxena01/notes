@@ -1,5 +1,5 @@
 ---
-title: CA governance
+title: CA Governance
 description: ""
 category: ""
 order: 0

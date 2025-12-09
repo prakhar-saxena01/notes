@@ -1,5 +1,5 @@
 ---
-title: Security
+title: Internal Security
 description: ""
 category: ""
 order: 0
