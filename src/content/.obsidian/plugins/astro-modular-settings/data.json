@@ -104,8 +104,8 @@
   "homeOptions": {
     "featuredPost": {
       "enabled": true,
-      "type": "featured",
-      "slug": "/index"
+      "type": "latest",
+      "slug": ""
     },
     "recentPosts": {
       "enabled": false,
