@@ -331,7 +331,7 @@ export const siteConfig: SiteConfig = {
       // [CONFIG:HOME_OPTIONS_FEATURED_POST_ENABLED]
       enabled: true, // Show featured post on homepage
       // [CONFIG:HOME_OPTIONS_FEATURED_POST_TYPE]
-      type: "latest", // "latest" or "featured"
+      type: "featured", // "latest" or "featured"
       // [CONFIG:HOME_OPTIONS_FEATURED_POST_SLUG]
       slug: "/", // Slug of post after '/posts/' to be featured (e.g. "post-title"). Only used when type is "featured"
     },
@@ -355,7 +355,7 @@ export const siteConfig: SiteConfig = {
     },
     blurb: {
       // [CONFIG:HOME_OPTIONS_BLURB_PLACEMENT]
-      placement: "above", // 'above' (at the top), 'below' (after content), or 'none' (disabled)
+      placement: "below", // 'above' (at the top), 'below' (after content), or 'none' (disabled)
     },
   },
 
