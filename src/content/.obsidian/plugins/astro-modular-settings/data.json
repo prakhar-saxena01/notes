@@ -120,7 +120,7 @@
       "count": 9
     },
     "blurb": {
-      "placement": "none"
+      "placement": "below"
     }
   },
   "postOptions": {
