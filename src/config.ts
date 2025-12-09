@@ -227,7 +227,7 @@ export const siteConfig: SiteConfig = {
   },
   footer: {
     // [CONFIG:FOOTER_ENABLED]
-    enabled: false,
+    enabled: true,
     // [CONFIG:FOOTER_CONTENT]
     content: `© 2025 {author}`,
     // [CONFIG:FOOTER_SHOW_SOCIAL_ICONS]
@@ -278,7 +278,7 @@ export const siteConfig: SiteConfig = {
       // [CONFIG:COMMAND_PALETTE_QUICK_ACTIONS_GRAPH_VIEW]
       graphView: true,
       // [CONFIG:COMMAND_PALETTE_QUICK_ACTIONS_CHANGE_THEME]
-      changeTheme: false,
+      changeTheme: true,
     },
   },
 
@@ -320,7 +320,7 @@ export const siteConfig: SiteConfig = {
   // Optional Content Types - Enable/disable optional content sections (takes priority over homeOptions)
   optionalContentTypes: {
     // [CONFIG:OPTIONAL_CONTENT_TYPES_PROJECTS]
-    projects: false, // Enable projects section
+    projects: true, // Enable projects section
     // [CONFIG:OPTIONAL_CONTENT_TYPES_DOCS]
     docs: true, // Enable documentation section
   },
@@ -331,13 +331,13 @@ export const siteConfig: SiteConfig = {
       // [CONFIG:HOME_OPTIONS_FEATURED_POST_ENABLED]
       enabled: true, // Show featured post on homepage
       // [CONFIG:HOME_OPTIONS_FEATURED_POST_TYPE]
-      type: "featured", // "latest" or "featured"
+      type: "latest", // "latest" or "featured"
       // [CONFIG:HOME_OPTIONS_FEATURED_POST_SLUG]
       slug: "/", // Slug of post after '/posts/' to be featured (e.g. "post-title"). Only used when type is "featured"
     },
     recentPosts: {
       // [CONFIG:HOME_OPTIONS_RECENT_POSTS_ENABLED]
-      enabled: false, // Show recent posts on homepage
+      enabled: true, // Show recent posts on homepage
       // [CONFIG:HOME_OPTIONS_RECENT_POSTS_COUNT]
       count: 9, // Number of recent posts to show
     },

@@ -1,19 +1,15 @@
 ---
 title: Master Index
+date: 2025-12-09
 description: ""
-category: Index
-order: 0
-lastModified:
-version: ""
-image: attachments/index.png
-imageAlt: index
+tags: []
+image: ""
+imageAlt: ""
+imageOG: false
 hideCoverImage: false
 hideTOC: false
+targetKeyword: ""
 draft: false
-noIndex: false
-featured: true
-aliases:
-  - master-index
 ---
 # 🧭 MASTER INDEX — UPSC MASTER VAULT
 ---
