@@ -3,9 +3,9 @@ title: Master Index
 date: 2025-12-09
 description: ""
 tags: []
-image: ""
-imageAlt: ""
-imageOG: false
+image: attachments/index.png
+imageAlt: index
+imageOG: true
 hideCoverImage: false
 hideTOC: false
 targetKeyword: ""
