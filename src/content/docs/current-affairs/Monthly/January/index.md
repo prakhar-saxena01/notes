@@ -1,7 +1,7 @@
 ---
-title: CA Monthly January
+title: January
 description: ""
-category: Current Affairs
+category: Current Affairs Monthly
 order: 1
 lastModified: 2025-12-09
 version: ""

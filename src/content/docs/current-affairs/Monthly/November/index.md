@@ -1,8 +1,8 @@
 ---
-title: CA Monthly November
+title: November
 description: ""
-category: Current Affairs
-order: 1
+category: Current Affairs Monthly
+order: 11
 lastModified: 2025-12-09
 version: ""
 image: ""

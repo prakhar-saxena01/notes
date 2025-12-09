@@ -1,8 +1,8 @@
 ---
-title: CA Monthly July
+title: July
 description: ""
-category: Current Affairs
-order: 1
+category: Current Affairs Monthly
+order: 7
 lastModified: 2025-12-09
 version: ""
 image: ""
