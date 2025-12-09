@@ -1,5 +1,5 @@
 ---
-title: Economy
+title: Prelims Economy
 description: ""
 category: Prelims
 order: 0

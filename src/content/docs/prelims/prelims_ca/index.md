@@ -1,5 +1,5 @@
 ---
-title: Current Affairs
+title: Prelims Current Affairs
 description: ""
 category: Prelims
 order: 0

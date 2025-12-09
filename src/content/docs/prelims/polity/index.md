@@ -1,5 +1,5 @@
 ---
-title: Polity
+title: Prelims Polity
 description: ""
 category: Prelims
 order: 0
