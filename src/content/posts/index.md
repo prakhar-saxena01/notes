@@ -5,13 +5,13 @@ category: Index
 order: 0
 lastModified:
 version: ""
-image: ""
-imageAlt: ""
+image: attachments/index.png
+imageAlt: index
 hideCoverImage: false
 hideTOC: false
 draft: false
 noIndex: false
-featured: false
+featured: true
 aliases:
   - master-index
 ---
