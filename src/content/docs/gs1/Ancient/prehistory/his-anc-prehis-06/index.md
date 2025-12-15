@@ -13,3 +13,7 @@ draft: false
 noIndex: false
 featured: false
 ---
+---
+go back to [Master Index](posts/index/index.md) or [Ancient History](docs/gs1/ancient/index.md)
+
+--- 

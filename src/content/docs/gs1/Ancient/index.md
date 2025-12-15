@@ -15,6 +15,11 @@ featured: false
 aliases:
   - ancient
 ---
+---
+go back to [Master Index](posts/index/index.md)
+or go to [Medieval History](docs/gs1/medieval/index.md), [Modern History](docs/gs1/modern/index.md), [Art & Culture](docs/gs1/art_culture/index.md)
+
+--- 
 # ⭐INDEX — ANCIENT INDIA
 ---
 ## ⭐ PREHISTORY (Before 2600 BCE)
