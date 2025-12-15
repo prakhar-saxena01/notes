@@ -1,8 +1,8 @@
 ---
-title: "HIS-ANC-PREHIS-06"
+title: HIS-ANC-PREHIS-06
 description: ""
-category: ""
-order: 0
+category: Prehistory
+order: 6
 lastModified: 2025-12-15
 version: ""
 image: ""
