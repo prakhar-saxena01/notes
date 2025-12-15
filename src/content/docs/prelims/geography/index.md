@@ -2,7 +2,7 @@
 title: Prelims Geography
 description: ""
 category: Prelims
-order: 2
+order: 4
 lastModified: 2025-12-07
 version: ""
 image: ""

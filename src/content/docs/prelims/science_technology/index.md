@@ -2,7 +2,7 @@
 title: Prelims Science and Technology
 description: ""
 category: Prelims
-order: 0
+order: 7
 lastModified: 2025-12-07
 version: ""
 image: ""

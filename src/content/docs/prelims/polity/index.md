@@ -2,7 +2,7 @@
 title: Prelims Polity
 description: ""
 category: Prelims
-order: 0
+order: 1
 lastModified: 2025-12-07
 version: ""
 image: ""

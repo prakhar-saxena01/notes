@@ -125,12 +125,12 @@ views:
     maxTagsToShow: 2
   - type: bases-cms
     name: Documentation
-    filters:
-      and:
-        - file.folder.startsWith("docs")
     groupBy:
       property: category
       direction: ASC
+    order:
+      - file.name
+      - tags
     sort:
       - property: order
         direction: ASC

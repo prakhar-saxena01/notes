@@ -2,7 +2,7 @@
 title: Prelims Current Affairs
 description: ""
 category: Prelims
-order: 0
+order: 8
 lastModified: 2025-12-07
 version: ""
 image: ""
